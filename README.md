@@ -5,6 +5,6 @@ All we do is add an empty div with id at homepage, right above the sidebar so we
 
 JS file is self explenatory, 
 
-CSS must be altered to fit your website's need. In my scenario I cound not change the sidebar's position attribute, so i had to tweak it's position manually. In most scenarios you can replace my css rules with position: fixed; plus some minor top,left,bottom,right changes.
+CSS must be altered to fit your website's need. In my scenario I cound not change the sidebar's position attribute, so i had to tweak it's position manually. In most scenarios transform: translate(); rule is not needed.
  
 Credit is appreciated, hit me up for custom work on your projects!
