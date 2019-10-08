@@ -1,0 +1,29 @@
+@media only screen and (min-width: 1200px){
+	#sidebar.stickIt {
+		position: fixed;
+		top: 0;
+		z-index: 10;
+		transform: translateX(294.6%);
+		
+	}
+}
+@media only screen and (min-width: 1184px) and (max-width: 1199px){
+	#sidebar.stickIt {
+		position: fixed;
+		top: 0;
+		transform: translateX(0);
+		right: 0;
+		margin-right: 0px;
+		
+	}
+}
+@media only screen and (min-width: 960px) and (max-width: 1183px){
+	#sidebar.stickIt {
+		position: fixed;
+		top: 0;
+		transform: translateX(0);
+		right: 0;
+		margin-right: 10px;
+		
+	}
+}
